@@ -1,9 +1,6 @@
 # Python API
 
-This reference covers the `tirx_harness` Python application programming
-interface (API). Signatures, defaults, and docstrings are generated from this
-repository's source at documentation build time. Match the documentation
-revision to your installed package.
+This reference covers the `tirx_harness` Python API.
 
 Start with [Installation](../installation.md) and the runnable
 [compiler analysis examples](../components/tools.md). Use the reference when
