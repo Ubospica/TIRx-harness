@@ -1,0 +1,11 @@
+{% if theme_source_repository %}
+<div class="view-this-page">
+  <a class="muted-link repository-link" href="{{ theme_source_repository }}"
+     title="{{ _('GitHub repository') }}">
+    {{ github_icon }}
+    <span class="visually-hidden">{{ _('GitHub repository') }}</span>
+  </a>
+</div>
+{% endif %}
+
+{% include "!components/view-this-page.html" %}
