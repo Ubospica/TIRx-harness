@@ -5,7 +5,7 @@ served at <https://tirxharness.mlc.ai/docs/>.
 
 ## Local preview
 
-Serve this branch's root:
+Serve the website's root:
 
 ```bash
 python -m http.server 8018 --bind 127.0.0.1 --directory .
