@@ -17,10 +17,7 @@ integrating checks, simulation, or generated-code inspection into your own loop.
 | Extract generated code and compiler resource information | [Generated-code inspection](inspection.md) |
 
 The reference focuses on callable tools and the objects their callers supply
-or receive. Kernel authoring belongs to
-[TIRx-lite](../components/TIRx-lite.md), remote execution to
-[kcoral](../components/kcoral.md), and run preparation to
-[Optimization Runs](../optimization-runs.md).
+or receive.
 
 ```{toctree}
 :maxdepth: 1
