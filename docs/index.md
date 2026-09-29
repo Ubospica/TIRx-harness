@@ -116,14 +116,6 @@ Remote GPU execution <components/kcoral>
 
 ```{toctree}
 :hidden:
-:maxdepth: 2
-:caption: Reference
-
-api/index
-```
-
-```{toctree}
-:hidden:
 :maxdepth: 1
 :caption: Development
 
@@ -131,4 +123,12 @@ development/add-workload
 development/contribute-kernel
 development/report-and-fix-bugs
 development/build-the-docs
+```
+
+```{toctree}
+:hidden:
+:maxdepth: 2
+:caption: Reference
+
+api/index
 ```

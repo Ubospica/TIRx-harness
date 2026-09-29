@@ -53,7 +53,7 @@ container must be reachable from the SSH host for forwarding to work.
 
 ## Maintain the documentation
 
-- `index.md` owns the overview and the Get Started, Components, Reference, and Development
+- `index.md` owns the overview and the Get Started, Components, Development, and Reference
   navigation groups.
 - `installation.md` owns prerequisites, package installation, and skill installation.
 - `quick-start.md` introduces using the skills with an agent on a concrete kernel.
